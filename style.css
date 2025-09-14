@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: url('Transaksi.jpg') no-repeat center center fixed;
+  background: url('transaksi.jpg') no-repeat center center fixed;
   background-size: cover;
   display: flex;
   justify-content: center;
@@ -129,3 +129,4 @@ body {
 .forgot-password:hover {
   text-decoration: underline;
 }
+
